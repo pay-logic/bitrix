@@ -1,0 +1,1 @@
+<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/softlogic.kiosk/lib/services/rest/index.php"); ?>
